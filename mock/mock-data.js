@@ -5,7 +5,7 @@ const Mock = require("mockjs");
 /** 数据模版 **/
 const ajaxTest = {
   "code|1": "success",
-  "data|1-10": [
+  "data|1-19": [
     {
       "id|+1": 1,
       email: "@EMAIL"
