@@ -13,9 +13,9 @@ export default class Footer extends React.PureComponent {
   render() {
     return (
       <div className={css.footer}>
-        © 2017{" "}
+        © 2018{" "}
         <a href="http://nodedai.com" target="_blank" rel="noopener noreferrer">
-          nodedai.com
+        nodedai.com
         </a>, Inc.
       </div>
     );

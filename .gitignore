@@ -1,9 +1,9 @@
 # mac .DS_Store
 .DS_Store
-.cache
+dist
 # Webstorm
 .idea
-dist
+
 # Logs
 logs
 *.log
@@ -36,6 +36,7 @@ build/Release
 node_modules
 jspm_packages
 build
+.cache
 .happypack
 
 # Optional npm cache directory

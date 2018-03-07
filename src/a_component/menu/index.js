@@ -27,7 +27,7 @@ export default class Menu extends React.PureComponent {
           测试页面
         </NavLink>|
         <a
-          href="https://github.com/shawn2016/adai-cli-template/tree/master/react-router-redux-eslint-webpack"
+          href="https://github.com/shawn2016/adai-cli-template/tree/master/react-router-redux-eslint-parcel"
           target="_blank"
           rel="noopener noreferrer"
         >

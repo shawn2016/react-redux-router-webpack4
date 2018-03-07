@@ -41,7 +41,7 @@ export default class HomePageContainer extends React.Component {
       <div className={classNames(css.home, "all_nowarp")}>
         <div className={css.box}>
           <img src={ImgLogo} />
-          <div className={css.title}>react-router-redux-eslint-webpack</div>
+          <div className={css.title}>react-router-redux-eslint-parcel</div>
           <div className={css.info}>
             react、redux、webpack4、eslint、babel6、antd
           </div>
